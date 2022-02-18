@@ -1,8 +1,9 @@
 PTI Resolution
 --------------
 
-1. Build, Develop, and Maintain Web HIMSI
+1. Build, Develop, and Maintain Web HIMSI ✅
 2. Create Platform for maba, iMaba
 3. Build, Develop, and Maintain Web SIFEST 2022
 4. Create Mobile App for all student in SI
 5. Build an incubator of student's startup 
+6. Create Youtube Channel
