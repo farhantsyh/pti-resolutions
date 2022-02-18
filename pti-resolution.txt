@@ -1,0 +1,6 @@
+PTI Resolution
+--------------
+
+1. Build, Develop, and Maintain Web HIMSI
+2. Create Platform for maba, iMaba
+3. Build, Develop, and Maintain Web SIFEST 2022
