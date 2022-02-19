@@ -10,4 +10,8 @@ PTI RESOLUTION NGOBAR
   e. Grid
 3. JavaScript
 4. PHP
+  a. OOP
+  b. MVC
+  c. Laravel
 5. React JS
+6. Wordpress
