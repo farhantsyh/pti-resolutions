@@ -3,5 +3,10 @@ PTI RESOLUTION NGOBAR
 
 1. HTML 5
 2. CSS
+  a. Fundamental
+  b. Layouting
+  c. CSS 3
+  d. Flexbox
+  e. Grid
 3. JavaScript
 4. PHP
