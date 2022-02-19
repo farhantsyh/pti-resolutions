@@ -1,0 +1,7 @@
+PTI RESOLUTION NGOBAR
+---------------------
+
+1. HTML 5
+2. CSS
+3. JavaScript
+4. PHP
