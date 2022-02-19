@@ -9,6 +9,8 @@ PTI RESOLUTION NGOBAR
   d. Flexbox
   e. Grid
 3. JavaScript
+  a. Node JS
+  b. Vue JS
 4. PHP
   a. OOP
   b. MVC
